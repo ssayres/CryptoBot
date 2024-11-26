@@ -123,3 +123,4 @@ while not should_exit:
         time.sleep(5)
 
 print("Script encerrado.")
+
